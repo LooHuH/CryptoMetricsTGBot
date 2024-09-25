@@ -1,0 +1,2 @@
+class Vars:
+    users = dict()
