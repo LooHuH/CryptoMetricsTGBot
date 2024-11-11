@@ -5,6 +5,7 @@ Telegram bot for fetching crypto-coins data
 You can edit bot and API tokens in ".env" file
 
 BOT_TOKEN - telegram bot token
+
 API_TOKEN - token from CoinStats API
 
 #### HOW TO BUILD VENV TO RUN THE CODE
