@@ -4,9 +4,6 @@ Telegram bot for fetching crypto-coins data
 
 You can edit bot and API tokens in ".env" file
 
-Example of working bot:
-https://t.me/CryptoMetricsApp_bot
-
 #### HOW TO BUILD VENV TO RUN THE CODE
 
 ```
